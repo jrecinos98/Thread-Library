@@ -1,4 +1,5 @@
 # Thread Library 
+
 - **Description** : For this project I implemented a new method on my thread library called pthread_join. 
 This method allows another thread to obtain the return value from the running thread. 
 Furthermore I implemented a lock() and unlock() method to block signals and use it when 
